@@ -1,0 +1,58 @@
+body{
+    background-color: grey;
+    color: black;
+    font-family: cursive;
+    background-image: url(../images/image1.jpg);
+    margin-top: 2%; 
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 16px;
+   
+}
+header{
+    font-family: cursive;
+}
+
+#nav-wrap{
+    text-align: center;
+    border: solid rgba(43, 40, 40, 0.623) 3px;
+    background-color: teal;
+    margin-left: 10%;
+    margin-right: 10%;
+   
+
+}
+#nav-wrap ul{
+list-style: none;
+padding: 1%;
+}
+
+
+#nav li{
+    display: inline;
+    padding: 5%;
+    font-size:large;
+    font-family: cursive;
+    
+    
+}
+a:link{
+    color: rgba(34, 29, 29, 0.822);
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: 600;
+   
+}
+
+#img1{ 
+    padding: 50px;
+    width: 275px;
+border-radius: 40%;
+margin-left: 36%;
+
+}
+.h11{
+    text-align: center;
+    font-style: normal ;
+
+}
